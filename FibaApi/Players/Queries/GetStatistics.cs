@@ -46,6 +46,9 @@ namespace FibaApi.Players.Queries
             public TraditionalStats countTraditional(List<Player> players)
             {
                 TraditionalStats traditionalStats = new TraditionalStats();
+                traditionalStats.FreeThrows = new FreeThrowsStats();
+                traditionalStats.ThreePoints = new ThreePointsStats();
+                traditionalStats.TwoPoints = new TwoPointsStats();
                 foreach (var player in players)
                 {
                     traditionalStats.Assists += player.AST;
@@ -56,13 +59,10 @@ namespace FibaApi.Players.Queries
                     traditionalStats.Turnovers += player.TOV;
 
 
-                    traditionalStats.FreeThrows = new FreeThrowsStats();
                     traditionalStats.FreeThrows.Attempts += player.FTA;
                     traditionalStats.FreeThrows.Made += player.FTM;
-                    traditionalStats.TwoPoints = new TwoPointsStats();
                     traditionalStats.TwoPoints.Attempts += player.TwoPA;
                     traditionalStats.TwoPoints.Made += player.TwoPM;
-                    traditionalStats.ThreePoints = new ThreePointsStats();
                     traditionalStats.ThreePoints.Attempts += player.ThreePA;
                     traditionalStats.ThreePoints.Made += player.ThreePM;
 
@@ -101,7 +101,7 @@ namespace FibaApi.Players.Queries
                     advancedStats.EffectiveFieldGoalPercentage += (player.TwoPM + player.ThreePM + 0.5 * player.ThreePM) / (player.TwoPA + player.ThreePA) * 100;
                     advancedStats.Valorization += (player.FTM + 2 * player.TwoPM + 3 * player.ThreePM + player.REB + player.BLK + player.AST + player.STL) - (player.FTA - player.FTM + player.TwoPA - player.TwoPM + player.ThreePA - player.ThreePM + player.TOV);
                     advancedStats.TrueShootingPercentage += (player.FTM + 2 * player.TwoPM + 3 * player.ThreePM) / (2 * (player.TwoPA + player.ThreePA + player.FTA * 0.475)) * 100;
-                    advancedStats.HollingerAssistRatio += (player.TwoPM + player.ThreePM + 0.5 * player.ThreePM) / (player.TwoPA + player.ThreePA) * 100;
+                    advancedStats.HollingerAssistRatio += player.AST / (player.TwoPA + player.ThreePA + 0.475 * player.FTA + player.AST + player.TOV) * 100;
                 }
 
                 //ROUNDING
