@@ -1,4 +1,8 @@
-﻿namespace FibaInfrastructure.Configuration
+﻿using FibaCore;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Builders;
+
+namespace FibaInfrastructure.Configuration
 {
     public class PlayerConfiguration : IEntityTypeConfiguration<Player>
     {

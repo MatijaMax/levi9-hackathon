@@ -1,9 +1,11 @@
 ﻿using FibaCore.Enums;
+using System.ComponentModel.DataAnnotations;
 
 namespace FibaCore
 {
     public class Player
     {
+        [Key]
         public Guid Id { get; set; }
         public string? Name { get; set; }
         public Position Position { get; set; }

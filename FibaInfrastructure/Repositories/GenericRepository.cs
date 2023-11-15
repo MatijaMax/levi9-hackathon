@@ -35,6 +35,12 @@ namespace FibaInfrastructure.Repositories
         {
             return context.Set<T>().Where(predicate);
         }
+
+        public void InsertRange(IEnumerable<T> entities)
+        {
+            context.Set<T>().AddRange(entities);
+        }
+
         public void Save()
         {
             context.SaveChanges();

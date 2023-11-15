@@ -1,32 +1,34 @@
-﻿using MediatR;
+﻿using FibaCore;
+using FibaInfrastructure.Repositories;
+using MediatR;
 namespace FibaApi.Players.Queries
 {
     public static class GetPlayerStatistics
     {
-        public class Query : IRequest<List<Customer>>
+        public class Query : IRequest<List<Player>>
         {
 
         }
 
-        public class RequestHandler : IRequestHandler<Query, List<Customer>>
+        public class RequestHandler : IRequestHandler<Query, List<Player>>
         {
-            private readonly IRepository<Customer> _repository;
+            private readonly IRepository<Player> _repository;
 
-            public RequestHandler(IRepository<Customer> repository)
+            public RequestHandler(IRepository<Player> repository)
             {
                 _repository = repository ?? throw new ArgumentNullException(nameof(repository));
             }
 
-            public Task<List<Customer>> Handle(Query request, CancellationToken cancellationToken)
+            public Task<List<Player>> Handle(Query request, CancellationToken cancellationToken)
             {
                 if (request is null)
                 {
                     throw new ArgumentNullException(nameof(request));
                 }
 
-                List<Customer> customers = _repository.GetAll().ToList();
+                List<Player> players = _repository.GetAll().ToList();
 
-                return Task.FromResult(customers);
+                return Task.FromResult(players);
             }
         }
     }

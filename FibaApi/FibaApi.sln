@@ -5,9 +5,9 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibaApi", "FibaApi.csproj", "{3EFE49B6-4F39-4404-A300-9D59008F2805}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibaCore", "..\FibaCore\FibaCore.csproj", "{69B1D32C-ACFB-4B10-92F2-031E70949747}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibaCore", "..\FibaCore\FibaCore.csproj", "{69B1D32C-ACFB-4B10-92F2-031E70949747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibaInfrastructure", "..\FibaInfrastructure\FibaInfrastructure.csproj", "{C89474A6-1020-4C18-8EEC-4374F93F5896}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FibaInfrastructure", "..\FibaInfrastructure\FibaInfrastructure.csproj", "{C89474A6-1020-4C18-8EEC-4374F93F5896}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

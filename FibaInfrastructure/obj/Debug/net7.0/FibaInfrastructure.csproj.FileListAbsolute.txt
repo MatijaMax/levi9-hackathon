@@ -1,0 +1,15 @@
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\bin\Debug\net7.0\FibaInfrastructure.deps.json
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\bin\Debug\net7.0\FibaInfrastructure.dll
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\bin\Debug\net7.0\FibaInfrastructure.pdb
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\bin\Debug\net7.0\FibaCore.dll
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\bin\Debug\net7.0\FibaCore.pdb
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\obj\Debug\net7.0\FibaInfrastructure.csproj.AssemblyReference.cache
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\obj\Debug\net7.0\FibaInfrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\obj\Debug\net7.0\FibaInfrastructure.AssemblyInfoInputs.cache
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\obj\Debug\net7.0\FibaInfrastructure.AssemblyInfo.cs
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\obj\Debug\net7.0\FibaInfrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\obj\Debug\net7.0\FibaInfrastructure.csproj.CopyComplete
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\obj\Debug\net7.0\FibaInfrastructure.dll
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\obj\Debug\net7.0\refint\FibaInfrastructure.dll
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\obj\Debug\net7.0\FibaInfrastructure.pdb
+C:\Users\Matija\Desktop\project-fiba\FibaInfrastructure\obj\Debug\net7.0\ref\FibaInfrastructure.dll

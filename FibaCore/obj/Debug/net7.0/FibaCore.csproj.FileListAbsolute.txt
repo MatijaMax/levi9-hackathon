@@ -1,0 +1,12 @@
+C:\Users\Matija\Desktop\project-fiba\FibaCore\bin\Debug\net7.0\FibaCore.deps.json
+C:\Users\Matija\Desktop\project-fiba\FibaCore\bin\Debug\net7.0\FibaCore.dll
+C:\Users\Matija\Desktop\project-fiba\FibaCore\bin\Debug\net7.0\FibaCore.pdb
+C:\Users\Matija\Desktop\project-fiba\FibaCore\obj\Debug\net7.0\FibaCore.csproj.AssemblyReference.cache
+C:\Users\Matija\Desktop\project-fiba\FibaCore\obj\Debug\net7.0\FibaCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matija\Desktop\project-fiba\FibaCore\obj\Debug\net7.0\FibaCore.AssemblyInfoInputs.cache
+C:\Users\Matija\Desktop\project-fiba\FibaCore\obj\Debug\net7.0\FibaCore.AssemblyInfo.cs
+C:\Users\Matija\Desktop\project-fiba\FibaCore\obj\Debug\net7.0\FibaCore.csproj.CoreCompileInputs.cache
+C:\Users\Matija\Desktop\project-fiba\FibaCore\obj\Debug\net7.0\FibaCore.dll
+C:\Users\Matija\Desktop\project-fiba\FibaCore\obj\Debug\net7.0\refint\FibaCore.dll
+C:\Users\Matija\Desktop\project-fiba\FibaCore\obj\Debug\net7.0\FibaCore.pdb
+C:\Users\Matija\Desktop\project-fiba\FibaCore\obj\Debug\net7.0\ref\FibaCore.dll
