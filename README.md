@@ -36,7 +36,7 @@ Druge korisne skripte za proveru:
 SELECT * FROM public."Players";
 DELETE FROM public."Players";
 
-Svako pokretanje programa briše sve podatke iz baze i unosi sve podatke iz csv fajla unutar projekta. U appsettings.json nalaze se svi važni paramtri za konekciju sa lokalnom bazom.
+Svako pokretanje programa briše sve podatke iz baze i unosi sve podatke iz csv fajla unutar projekta. U appsettings.json nalaze se svi važni parametri za konekciju sa lokalnom bazom.
 
 "ConnectionStrings": {
     "FibaConnection": "Host='localhost';Port=5432;Database='fiba';Username='postgres';Password='super';Pooling=true;"
