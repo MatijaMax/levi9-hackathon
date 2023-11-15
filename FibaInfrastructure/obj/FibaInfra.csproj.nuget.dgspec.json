@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfrastructure.csproj": {}
+    "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfra.csproj": {}
   },
   "projects": {
     "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\FibaCore.csproj": {
@@ -69,12 +69,12 @@
         }
       }
     },
-    "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfrastructure.csproj": {
+    "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfrastructure.csproj",
-        "projectName": "FibaInfrastructure",
-        "projectPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfra.csproj",
+        "projectName": "FibaInfra",
+        "projectPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfra.csproj",
         "packagesPath": "C:\\Users\\Matija\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\obj\\",
         "projectStyle": "PackageReference",
