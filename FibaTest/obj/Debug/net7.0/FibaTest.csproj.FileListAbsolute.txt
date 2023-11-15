@@ -1,6 +1,0 @@
-C:\Users\Matija\Desktop\project-fiba\FibaTest\bin\Debug\net7.0\CoverletSourceRootsMapping
-C:\Users\Matija\Desktop\project-fiba\FibaTest\obj\Debug\net7.0\FibaTest.csproj.AssemblyReference.cache
-C:\Users\Matija\Desktop\project-fiba\FibaTest\obj\Debug\net7.0\FibaTest.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Matija\Desktop\project-fiba\FibaTest\obj\Debug\net7.0\FibaTest.AssemblyInfoInputs.cache
-C:\Users\Matija\Desktop\project-fiba\FibaTest\obj\Debug\net7.0\FibaTest.AssemblyInfo.cs
-C:\Users\Matija\Desktop\project-fiba\FibaTest\obj\Debug\net7.0\FibaTest.csproj.CoreCompileInputs.cache
