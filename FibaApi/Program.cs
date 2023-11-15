@@ -53,7 +53,8 @@ using (var scope = app.Services.CreateScope())
     var serviceProvider = scope.ServiceProvider;
     var dbContext = serviceProvider.GetRequiredService<FibaContext>();
 
-    ImportCsvData(dbContext, "C:\\Users\\Matija\\Desktop\\project-fiba");
+    //ImportCsvData(dbContext, "C:\\Users\\Matija\\Desktop\\project-fiba");
+    ImportCsvData(dbContext, Directory.GetCurrentDirectory());
 }
 
 

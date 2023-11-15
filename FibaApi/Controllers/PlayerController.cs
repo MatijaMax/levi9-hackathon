@@ -23,6 +23,18 @@ namespace FibaApi.Controllers
             return Ok(players);
         }
 
+        [HttpGet("/stats/player/{playerFullName}")]
+        public async Task<IActionResult> GetCustomer(string playerFullName)
+        {
 
+            var playerStats = await _mediator.Send(new GetStatistics.Query { PlayerFullName = playerFullName });
+
+            if (playerStats == null)
+            {
+                return NotFound("Player not found");
+            }
+
+            return Ok(playerStats);
+        }
     }
 }
