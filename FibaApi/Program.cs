@@ -107,7 +107,7 @@ static List<T> ReadCsv<T>(string filePath, bool skipHeader = false)
     using (var reader = new StreamReader(filePath, Encoding.Unicode))
     using (var csv = new CsvReader(reader, new CsvHelper.Configuration.CsvConfiguration(CultureInfo.InvariantCulture)))
     {
-        // Skip the header if specified
+        // Skip the header
         if (skipHeader)
         {
             csv.Read();
