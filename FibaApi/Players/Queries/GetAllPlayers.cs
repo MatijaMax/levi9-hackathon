@@ -3,7 +3,7 @@ using FibaInfrastructure.Repositories;
 using MediatR;
 namespace FibaApi.Players.Queries
 {
-    public static class GetPlayerStatistics
+    public static class GetAllPlayers
     {
         public class Query : IRequest<List<Player>>
         {
