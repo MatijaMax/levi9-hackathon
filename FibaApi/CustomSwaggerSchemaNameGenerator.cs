@@ -6,9 +6,6 @@ namespace FibaApi
     {
         public override string Generate(Type type)
         {
-            // fixes the problem when the type is declared within another type
-            // e.g. GetUsers.Model ()
-            // inspired by https://stackoverflow.com/questions/45241177/nswag-namespace-in-model-names
             var declaringTypes = new List<Type>();
             GetAllDeclaringTypes(declaringTypes, type);
 

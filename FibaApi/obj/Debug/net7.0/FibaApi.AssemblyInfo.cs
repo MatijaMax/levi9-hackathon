@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FibaApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5efe57456596dae56da7c067119577c5db840015")]
 [assembly: System.Reflection.AssemblyProductAttribute("FibaApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FibaApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uelYS5dEmnJtm9YS2G9JiOwY6u7tlFuPkkX7eHwLMgdLkAif/wZF2MZmMva19xWAivEpxLj2ySWLn9dNEplscg==",
+  "dgSpecHash": "HqZBzLvykut7cOjEmlvV9nfUij1hlfbliO7OZ9bMcZzWzCZjpH5kK9sIG967d8/NK1frcaS/ne11OHM/fXOaFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaApi\\FibaApi.csproj",
+  "projectFilePath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaApi\\FibaApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matija\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
     "C:\\Users\\Matija\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",

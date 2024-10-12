@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
+    environment:
+      - ConnectionStrings__FibaConnection=Host=host.docker.internal;Port=5432;Database=fiba;Username=postgres;Password=super;
+    volumes:
+      - ./xcsv.csv:/app/xcsv.csv

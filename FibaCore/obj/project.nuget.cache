@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Gfoa+jLh6gBwTjA7+F9fidt45GJYQj+aSEO8HMLzOLp4+NmjiWuC5c7R4e32Rc18CpGPd6kfC5ShEl6TanQvQ==",
+  "dgSpecHash": "Wksew3J6yFYltQTFNzWUu2DQ7r0IIVYVeNnytxQVWLhxIdC8HnTxILQjwncEb0LRdwejwUFplZgbfR0iUEvhtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\FibaCore.csproj",
+  "projectFilePath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\FibaCore.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Matija\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\Matija\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",

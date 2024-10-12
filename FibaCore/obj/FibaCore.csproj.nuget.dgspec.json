@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\FibaCore.csproj": {}
+    "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\FibaCore.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\FibaCore.csproj": {
+    "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\FibaCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\FibaCore.csproj",
+        "projectUniqueName": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\FibaCore.csproj",
         "projectName": "FibaCore",
-        "projectPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\FibaCore.csproj",
+        "projectPath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\FibaCore.csproj",
         "packagesPath": "C:\\Users\\Matija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\obj\\",
+        "outputPath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Matija\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -65,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

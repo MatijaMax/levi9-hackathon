@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaApi\\FibaApi.csproj": {}
+    "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaApi\\FibaApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaApi\\FibaApi.csproj": {
+    "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaApi\\FibaApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaApi\\FibaApi.csproj",
+        "projectUniqueName": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaApi\\FibaApi.csproj",
         "projectName": "FibaApi",
-        "projectPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaApi\\FibaApi.csproj",
+        "projectPath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaApi\\FibaApi.csproj",
         "packagesPath": "C:\\Users\\Matija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaApi\\obj\\",
+        "outputPath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaApi\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Matija\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -32,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfrastructure.csproj": {
-                "projectPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfrastructure.csproj"
+              "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaInfrastructure\\FibaInfrastructure.csproj": {
+                "projectPath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaInfrastructure\\FibaInfrastructure.csproj"
               }
             }
           }
@@ -42,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -96,25 +97,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\FibaCore.csproj": {
+    "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\FibaCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\FibaCore.csproj",
+        "projectUniqueName": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\FibaCore.csproj",
         "projectName": "FibaCore",
-        "projectPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\FibaCore.csproj",
+        "projectPath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\FibaCore.csproj",
         "packagesPath": "C:\\Users\\Matija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\obj\\",
+        "outputPath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Matija\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,6 +131,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -161,25 +163,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfrastructure.csproj": {
+    "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaInfrastructure\\FibaInfrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaInfrastructure\\FibaInfrastructure.csproj",
         "projectName": "FibaInfrastructure",
-        "projectPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\FibaInfrastructure.csproj",
+        "projectPath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaInfrastructure\\FibaInfrastructure.csproj",
         "packagesPath": "C:\\Users\\Matija\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaInfrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaInfrastructure\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
           "C:\\Users\\Matija\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -193,8 +191,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\FibaCore.csproj": {
-                "projectPath": "C:\\Users\\Matija\\Desktop\\project-fiba\\FibaCore\\FibaCore.csproj"
+              "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\FibaCore.csproj": {
+                "projectPath": "C:\\Users\\Matija\\Desktop\\levi9-hackathon\\FibaCore\\FibaCore.csproj"
               }
             }
           }
@@ -203,6 +201,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -230,7 +233,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
