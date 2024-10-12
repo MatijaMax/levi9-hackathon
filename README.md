@@ -9,6 +9,7 @@
 * ASP.NET Core Entity Framework
 * PostgreSQL
 * SWAGGER
+* Docker
 
 
 
